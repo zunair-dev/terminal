@@ -337,7 +337,7 @@ func main() {
 
 	updateHeader := func() {
 		header.Clear()
-		fmt.Fprintf(header, " [#7dcfff::b]◆ BERTO[-::-] [#565f89]dev dashboard[-]    [#565f89]⏱ %s[-]", elapsed())
+		fmt.Fprintf(header, " [#7dcfff::b]◆ Zunair[-::-] [#565f89]dev dashboard[-]    [#565f89]⏱ %s[-]", elapsed())
 	}
 	updateHeader()
 
