@@ -1,0 +1,7 @@
+# Compiled binary (built from main.go)
+/terminal
+/dev-dashboard
+*.exe
+
+# OS / editor cruft
+.DS_Store
